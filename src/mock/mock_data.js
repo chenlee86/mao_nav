@@ -384,32 +384,25 @@ export const mockData = {
       "order": 6,
       "sites": [
         {
-          "id": "mdn",
-          "name": "MDN Web Docs",
-          "url": "https://developer.mozilla.org",
-          "description": "Web开发权威文档",
-          "icon": "/sitelogo/developer.mozilla.org.ico"
+          "id": "site-1762179937676",
+          "name": "bymail",
+          "url": "https://bymail.nyc.mn",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/bymail.nyc.mn"
         },
         {
-          "id": "w3school",
-          "name": "W3Schools",
-          "url": "https://www.w3schools.com",
-          "description": "Web技术教程",
-          "icon": "/sitelogo/www.w3schools.com.ico"
+          "id": "site-1762179959476",
+          "name": "fuckip.me",
+          "url": "https://fuckip.me",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/fuckip.me"
         },
         {
-          "id": "runoob",
-          "name": "菜鸟教程",
-          "url": "https://www.runoob.com",
-          "description": "编程技术教程",
-          "icon": "/sitelogo/www.runoob.com.ico"
-        },
-        {
-          "id": "coursera",
-          "name": "Coursera",
-          "url": "https://www.coursera.org",
-          "description": "在线课程平台",
-          "icon": "/sitelogo/www.coursera.org.ico"
+          "id": "site-1762180018489",
+          "name": "蛋蛋云",
+          "url": "https://nba.222060.xyz/cart?fid=1",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/nba.222060.xyz"
         }
       ]
     },
