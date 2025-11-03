@@ -142,32 +142,25 @@ export const mockData = {
           "icon": "/sitelogo/vercel.com.ico"
         },
         {
-          "id": "aws",
-          "name": "AWS",
-          "url": "https://aws.amazon.com",
-          "description": "亚马逊云服务",
-          "icon": "/sitelogo/aws.amazon.com.ico"
-        },
-        {
-          "id": "aliyun",
-          "name": "阿里云",
-          "url": "https://www.aliyun.com",
-          "description": "阿里巴巴云计算",
-          "icon": "/sitelogo/www.aliyun.com.ico"
-        },
-        {
-          "id": "tencent-cloud",
-          "name": "腾讯云",
-          "url": "https://cloud.tencent.com",
-          "description": "腾讯云计算服务",
-          "icon": "/sitelogo/cloud.tencent.com.ico"
-        },
-        {
           "id": "site-1762178688075",
           "name": "Netlify",
           "url": "https://www.netlify.com",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.netlify.com"
+        },
+        {
+          "id": "site-1762179881867",
+          "name": "ORACLE",
+          "url": "https://www.oracle.com",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.oracle.com"
+        },
+        {
+          "id": "site-1762179849201",
+          "name": "EDGEONE",
+          "url": "https://edgeone.ai",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/edgeone.ai"
         },
         {
           "id": "site-1762178742251",
@@ -182,6 +175,13 @@ export const mockData = {
           "url": "https://run.freecloud.ltd",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/run.freecloud.ltd"
+        },
+        {
+          "id": "aws",
+          "name": "AWS",
+          "url": "https://aws.amazon.com",
+          "description": "亚马逊云服务",
+          "icon": "/sitelogo/aws.amazon.com.ico"
         },
         {
           "id": "site-1762178799260",
@@ -203,6 +203,20 @@ export const mockData = {
           "url": "https://hax.co.id/renew-vps/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/hax.co.id"
+        },
+        {
+          "id": "tencent-cloud",
+          "name": "腾讯云",
+          "url": "https://cloud.tencent.com",
+          "description": "腾讯云计算服务",
+          "icon": "/sitelogo/cloud.tencent.com.ico"
+        },
+        {
+          "id": "aliyun",
+          "name": "阿里云",
+          "url": "https://www.aliyun.com",
+          "description": "阿里巴巴云计算",
+          "icon": "/sitelogo/www.aliyun.com.ico"
         }
       ]
     },
@@ -365,7 +379,7 @@ export const mockData = {
     },
     {
       "id": "learning",
-      "name": "学习资源",
+      "name": "LXC",
       "icon": "📚",
       "order": 6,
       "sites": [
