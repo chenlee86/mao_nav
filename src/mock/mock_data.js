@@ -92,11 +92,18 @@ export const mockData = {
           "icon": "/sitelogo/claude.ai.ico"
         },
         {
-          "id": "midjourney",
-          "name": "Midjourney",
-          "url": "https://www.midjourney.com",
-          "description": "AI图像生成工具",
-          "icon": "/sitelogo/www.midjourney.com.ico"
+          "id": "site-1762179699669",
+          "name": "grok",
+          "url": "https://grok.com",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/grok.com"
+        },
+        {
+          "id": "site-1762179660544",
+          "name": "GEMINI",
+          "url": "https://gemini.google.com",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/gemini.google.com"
         },
         {
           "id": "copilot",
@@ -111,6 +118,13 @@ export const mockData = {
           "url": "https://cursor.sh",
           "description": "AI代码编辑器",
           "icon": "/sitelogo/cursor.sh.ico"
+        },
+        {
+          "id": "midjourney",
+          "name": "Midjourney",
+          "url": "https://www.midjourney.com",
+          "description": "AI图像生成工具",
+          "icon": "/sitelogo/www.midjourney.com.ico"
         }
       ]
     },
