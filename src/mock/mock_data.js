@@ -28,6 +28,34 @@ export const mockData = {
           "icon": "/sitelogo/chatgpt.com.ico"
         },
         {
+          "id": "site-1762179501964",
+          "name": "订阅器CM",
+          "url": "https://sub.cmliussss.net/sub",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/sub.cmliussss.net"
+        },
+        {
+          "id": "site-1762179548731",
+          "name": "订阅期Ciallo",
+          "url": "https://subbeta.775678.xyz/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/subbeta.775678.xyz"
+        },
+        {
+          "id": "site-1762179602499",
+          "name": "Snippet代码CMLIU",
+          "url": "https://bp.sub.cmliussss.net",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/bp.sub.cmliussss.net"
+        },
+        {
+          "id": "site-1762179438679",
+          "name": "SINGBOX命令生成器",
+          "url": "https://yonggekkk.github.io/argosbx/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/yonggekkk.github.io"
+        },
+        {
           "id": "curlconverter",
           "name": "curl converter",
           "url": "https://curlconverter.com/",
@@ -258,46 +286,10 @@ export const mockData = {
       ]
     },
     {
-      "id": "design",
-      "name": "设计工具",
-      "icon": "🎨",
-      "order": 5,
-      "sites": [
-        {
-          "id": "figma",
-          "name": "Figma",
-          "url": "https://figma.com",
-          "description": "UI设计工具",
-          "icon": "/sitelogo/figma.com.ico"
-        },
-        {
-          "id": "sketch",
-          "name": "Sketch",
-          "url": "https://www.sketch.com",
-          "description": "界面设计工具",
-          "icon": "/sitelogo/www.sketch.com.ico"
-        },
-        {
-          "id": "canva",
-          "name": "Canva",
-          "url": "https://www.canva.com",
-          "description": "在线设计平台",
-          "icon": "/sitelogo/www.canva.com.ico"
-        },
-        {
-          "id": "adobe-xd",
-          "name": "Adobe XD",
-          "url": "https://www.adobe.com/products/xd.html",
-          "description": "用户体验设计工具",
-          "icon": "/sitelogo/www.adobe.com.ico"
-        }
-      ]
-    },
-    {
       "id": "finance",
       "name": "财经投资",
       "icon": "💰",
-      "order": 6,
+      "order": 5,
       "sites": [
         {
           "id": "binance",
@@ -361,7 +353,7 @@ export const mockData = {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 7,
+      "order": 6,
       "sites": [
         {
           "id": "mdn",
@@ -390,6 +382,42 @@ export const mockData = {
           "url": "https://www.coursera.org",
           "description": "在线课程平台",
           "icon": "/sitelogo/www.coursera.org.ico"
+        }
+      ]
+    },
+    {
+      "id": "design",
+      "name": "设计工具",
+      "icon": "🎨",
+      "order": 7,
+      "sites": [
+        {
+          "id": "figma",
+          "name": "Figma",
+          "url": "https://figma.com",
+          "description": "UI设计工具",
+          "icon": "/sitelogo/figma.com.ico"
+        },
+        {
+          "id": "sketch",
+          "name": "Sketch",
+          "url": "https://www.sketch.com",
+          "description": "界面设计工具",
+          "icon": "/sitelogo/www.sketch.com.ico"
+        },
+        {
+          "id": "canva",
+          "name": "Canva",
+          "url": "https://www.canva.com",
+          "description": "在线设计平台",
+          "icon": "/sitelogo/www.canva.com.ico"
+        },
+        {
+          "id": "adobe-xd",
+          "name": "Adobe XD",
+          "url": "https://www.adobe.com/products/xd.html",
+          "description": "用户体验设计工具",
+          "icon": "/sitelogo/www.adobe.com.ico"
         }
       ]
     },
@@ -502,6 +530,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "PPGO",
-  "_fileSha": "d3cff78285468b07a2ea5a132418e00d6fb99e8f"
+  "title": "猫猫导航🐱"
 }
