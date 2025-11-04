@@ -184,6 +184,13 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/run.freecloud.ltd"
         },
         {
+          "id": "site-1762220748674",
+          "name": "HAX",
+          "url": "https://hax.co.id/renew-vps",
+          "description": "",
+          "icon": ""
+        },
+        {
           "id": "aws",
           "name": "AWS",
           "url": "https://aws.amazon.com",
@@ -572,6 +579,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "PPGO🐱",
-  "_fileSha": "41b51b40fded9818ec5becffa7660f2cb23afc96"
+  "title": "PPGO🐱"
 }
