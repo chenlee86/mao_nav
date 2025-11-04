@@ -3,7 +3,7 @@ export const mockData = {
     {
       "id": "my-favorites",
       "name": "我的常用",
-      "icon": "💥",
+      "icon": "💻",
       "order": 0,
       "sites": [
         {
@@ -54,6 +54,13 @@ export const mockData = {
           "url": "https://yonggekkk.github.io/argosbx/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/yonggekkk.github.io"
+        },
+        {
+          "id": "site-1762243052490",
+          "name": "我的订阅",
+          "url": "https://best.cl888.dpdns.org",
+          "description": "",
+          "icon": ""
         },
         {
           "id": "curlconverter",
@@ -579,6 +586,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "PPGO",
-  "_fileSha": "896bdac30e39f5411a745535535bc1ee3c390c20"
+  "title": "PPGO"
 }
