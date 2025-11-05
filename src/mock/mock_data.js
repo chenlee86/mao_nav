@@ -82,6 +82,13 @@ export const mockData = {
           "url": "https://f1c8343ec4fee65bba1c0442629bbb6e3228c71a-6080.dstack-prod5.phala.network/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/f1c8343ec4fee65bba1c0442629bbb6e3228c71a-6080.dstack-prod5.phala.network"
+        },
+        {
+          "id": "site-1762309792413",
+          "name": "CF优选IP",
+          "url": "https://stock.hostmonit.com/CloudFlareYes",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/stock.hostmonit.com"
         }
       ]
     },
