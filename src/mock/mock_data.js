@@ -89,6 +89,13 @@ export const mockData = {
           "url": "https://stock.hostmonit.com/CloudFlareYes",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/stock.hostmonit.com"
+        },
+        {
+          "id": "site-1762407406768",
+          "name": "SOCKS5节点获取",
+          "url": "https://socsk5.kaiche.tk/?format=txt&type=%E5%AE%B6%E5%AE%BD",
+          "description": "",
+          "icon": ""
         }
       ]
     },
