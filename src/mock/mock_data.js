@@ -96,6 +96,13 @@ export const mockData = {
           "url": "https://socsk5.kaiche.tk/?format=txt&type=%E5%AE%B6%E5%AE%BD",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1763619461352",
+          "name": "PROXYIP优选",
+          "url": "https://proxyip.chatkg.qzz.io",
+          "description": "",
+          "icon": ""
         }
       ]
     },
