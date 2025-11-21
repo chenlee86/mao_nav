@@ -98,11 +98,11 @@ export const mockData = {
           "icon": ""
         },
         {
-          "id": "site-1763619461352",
-          "name": "PROXYIP优选",
-          "url": "https://proxyip.chatkg.qzz.io",
+          "id": "site-1763706030144",
+          "name": "cloud.zrvvv.com",
+          "url": "https://cloud.zrvvv.com/",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/cloud.zrvvv.com"
         }
       ]
     },
