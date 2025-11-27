@@ -103,6 +103,13 @@ export const mockData = {
           "url": "https://cloud.zrvvv.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/cloud.zrvvv.com"
+        },
+        {
+          "id": "site-1764232735384",
+          "name": "dev.nezha.pp.ua",
+          "url": "https://dev.nezha.pp.ua",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/dev.nezha.pp.ua"
         }
       ]
     },
@@ -600,6 +607,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "PPGO",
-  "_fileSha": "7fede62a1f3166c59c6d7e4e9b0bc1e57f536546"
+  "title": "PPGO"
 }
