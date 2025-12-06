@@ -92,8 +92,8 @@ export const mockData = {
         },
         {
           "id": "site-1762407406768",
-          "name": "SOCKS5节点获取",
-          "url": "https://socsk5.kaiche.tk/?format=txt&type=%E5%AE%B6%E5%AE%BD",
+          "name": "proxyip获取",
+          "url": "https://proxyip.chatkg.qzz.io",
           "description": "",
           "icon": ""
         },
