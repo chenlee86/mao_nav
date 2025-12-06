@@ -263,7 +263,7 @@ export const mockData = {
         {
           "id": "site-1762180018489",
           "name": "蛋蛋云",
-          "url": "https://nba.222060.xyz/cart?fid=1",
+          "url": "https://dandan.nyc.mn/login",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/nba.222060.xyz"
         },
