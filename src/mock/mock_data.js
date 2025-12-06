@@ -106,10 +106,10 @@ export const mockData = {
         },
         {
           "id": "site-1764232735384",
-          "name": "dev.nezha.pp.ua",
-          "url": "https://dev.nezha.pp.ua",
+          "name": "ZHIBO",
+          "url": "https://tzh911.qzz.io",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/dev.nezha.pp.ua"
+          "icon": "https://www.faviconextractor.com/favicon/tzh911.qzz.io"
         }
       ]
     },
