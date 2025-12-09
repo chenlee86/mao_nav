@@ -98,13 +98,6 @@ export const mockData = {
           "icon": ""
         },
         {
-          "id": "site-1763706030144",
-          "name": "cloud.zrvvv.com",
-          "url": "https://cloud.zrvvv.com/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/cloud.zrvvv.com"
-        },
-        {
           "id": "site-1764232735384",
           "name": "直播 tzh911.qzz.io",
           "url": "https://tzh911.qzz.io",
