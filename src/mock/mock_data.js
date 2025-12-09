@@ -276,10 +276,10 @@ export const mockData = {
         },
         {
           "id": "site-1762179937676",
-          "name": "crvvv",
-          "url": "https://cloud.crvvv.com",
+          "name": "bbbrb",
+          "url": "https://bbbrb.com/cart?fid=1&gid=1",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/cloud.crvvv.com"
+          "icon": "https://www.faviconextractor.com/favicon/bbbrb.com"
         },
         {
           "id": "site-1762179959476",
