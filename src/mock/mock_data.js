@@ -106,7 +106,7 @@ export const mockData = {
         },
         {
           "id": "site-1764232735384",
-          "name": "ZHIBO",
+          "name": "直播 tzh911.qzz.io",
           "url": "https://tzh911.qzz.io",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/tzh911.qzz.io"
@@ -276,10 +276,10 @@ export const mockData = {
         },
         {
           "id": "site-1762179937676",
-          "name": "bbbrb",
-          "url": "https://bbbrb.com/cart?fid=1&gid=1",
+          "name": "crvvv",
+          "url": "https://cloud.crvvv.com",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/bbbrb.com"
+          "icon": "https://www.faviconextractor.com/favicon/cloud.crvvv.com"
         },
         {
           "id": "site-1762179959476",
