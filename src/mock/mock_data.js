@@ -269,8 +269,8 @@ export const mockData = {
         },
         {
           "id": "site-1762179937676",
-          "name": "crvvv",
-          "url": "https://cloud.crvvv.com",
+          "name": "bbbrb",
+          "url": "https://bbbrb.com",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/cloud.crvvv.com"
         },
@@ -280,6 +280,13 @@ export const mockData = {
           "url": "https://fuckip.me",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/fuckip.me"
+        },
+        {
+          "id": "site-1765981156334",
+          "name": "DIAOMAOyun",
+          "url": "http://151.242.153.74:3000/login?redirect=/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/151.242.153.74:3000"
         }
       ]
     },
