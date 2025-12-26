@@ -291,10 +291,39 @@ export const mockData = {
       ]
     },
     {
+      "id": "learning",
+      "name": "LXC",
+      "icon": "📚",
+      "order": 3,
+      "sites": [
+        {
+          "id": "site-1762180153969",
+          "name": "姜太公云",
+          "url": "https://sv.594880.xyz",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/sv.594880.xyz"
+        },
+        {
+          "id": "site-1762180194127",
+          "name": "huancloud",
+          "url": "https://huancloud.cn/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/huancloud.cn"
+        },
+        {
+          "id": "site-1766760698419",
+          "name": "proxyip",
+          "url": "https://proxyip.881288.xyz",
+          "description": "",
+          "icon": ""
+        }
+      ]
+    },
+    {
       "id": "dev-tools",
       "name": "开发工具",
       "icon": "🛠️",
-      "order": 3,
+      "order": 4,
       "sites": [
         {
           "id": "github",
@@ -337,28 +366,6 @@ export const mockData = {
           "url": "https://www.oracle.com/java/technologies/downloads/",
           "description": "Oracle官方Java下载",
           "icon": "/sitelogo/www.oracle.com.ico"
-        }
-      ]
-    },
-    {
-      "id": "learning",
-      "name": "LXC",
-      "icon": "📚",
-      "order": 4,
-      "sites": [
-        {
-          "id": "site-1762180153969",
-          "name": "姜太公云",
-          "url": "https://sv.594880.xyz",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/sv.594880.xyz"
-        },
-        {
-          "id": "site-1762180194127",
-          "name": "huancloud",
-          "url": "https://huancloud.cn/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/huancloud.cn"
         }
       ]
     },
