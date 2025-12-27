@@ -292,7 +292,7 @@ export const mockData = {
     },
     {
       "id": "learning",
-      "name": "LXC",
+      "name": "域名及服务",
       "icon": "📚",
       "order": 3,
       "sites": [
@@ -316,6 +316,20 @@ export const mockData = {
           "url": "https://proxyip.881288.xyz",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1766805981383",
+          "name": "AE.KG",
+          "url": "https://registry.kevsrv.me",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/registry.kevsrv.me"
+        },
+        {
+          "id": "site-1766806008621",
+          "name": "ae.kg kevsrv服务",
+          "url": "https://free.kevsrv.me/account/ksapp_40770607",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/free.kevsrv.me"
         }
       ]
     },
