@@ -351,6 +351,13 @@ export const mockData = {
           "url": "https://icmp9.com/user/dashboard",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/icmp9.com"
+        },
+        {
+          "id": "site-1766806537878",
+          "name": "indevs.in",
+          "url": "https://indevs.in",
+          "description": "",
+          "icon": ""
         }
       ]
     },
