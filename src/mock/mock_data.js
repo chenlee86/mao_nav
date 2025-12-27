@@ -330,6 +330,20 @@ export const mockData = {
           "url": "https://free.kevsrv.me/account/ksapp_40770607",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/free.kevsrv.me"
+        },
+        {
+          "id": "site-1766806198433",
+          "name": "DE5.net",
+          "url": "https://my.dnshe.com/index.php?m=domain_hub",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/my.dnshe.com"
+        },
+        {
+          "id": "site-1766806257561",
+          "name": "GV.UY",
+          "url": "https://nic.gv.uy",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/nic.gv.uy"
         }
       ]
     },
