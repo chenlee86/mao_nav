@@ -344,6 +344,13 @@ export const mockData = {
           "url": "https://nic.gv.uy",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/nic.gv.uy"
+        },
+        {
+          "id": "site-1766806350814",
+          "name": "icmp9",
+          "url": "https://icmp9.com/user/dashboard",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/icmp9.com"
         }
       ]
     },
